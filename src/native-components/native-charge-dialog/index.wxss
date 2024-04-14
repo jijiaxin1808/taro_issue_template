@@ -1,0 +1,14 @@
+.charge-dialog {
+    padding: 16px;
+    height: 100vh;
+    background: yellow;
+}
+.charge-item {
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.charge-item:active {
+    background-color: rgba(0, 0, 0, 0.1);
+}
